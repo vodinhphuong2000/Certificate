@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.certificate-image{
+    width: 100%;
+}
+.certificate-image__list{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 50%;
+    object-fit: cover;
+    
+    ;
+}
